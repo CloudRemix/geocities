@@ -1,2 +1,2 @@
-# geocities
-Geocities URL List
+# Geocities URL List
+public domain
